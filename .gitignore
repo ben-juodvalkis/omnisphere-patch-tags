@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Never commit a real database or index built from a real library
+*.db
+*.db3
+*.db3-*
+*.json
